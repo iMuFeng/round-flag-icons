@@ -18,19 +18,11 @@ $ npm install round-flag-icons
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/round-flag-icons/css/round-flag-icons.min.css">
 ```
 
-For using the flags add the classes `.round-flag-icon` and `.round-flag-xx` (where `xx` is the [ISO 3166-1-alpha-2 code](https://www.iso.org/obp/ui/#search/code/) of a country or region) to an empty `<i>`. Example:
+For using flags add the classes `.round-flag-icon` and `.round-flag-xx` (where `xx` is the [ISO 3166-1-alpha-2 code](https://www.iso.org/obp/ui/#search/code/) of a country or region) to an empty `<i>`. Example:
 
 ```html
 <i class="round-flag-icon round-flag-br"></i>
 <i class="round-flag-icon round-flag-us"></i>
-```
-
-## Tests
-
-Tests are using jest, to run the tests use:
-
-```bash
-$ npm run test
 ```
 
 ## MIT license
