@@ -1,0 +1,16 @@
+{
+  "name": "round-flag-icons",
+  "version": "1.0.0",
+  "main": "css/round-flag-icons.css",
+  "files": [
+    "css",
+    "flags"
+  ],
+  "homepage": "http://github.com/iMuFeng/round-flag-icons",
+  "repository": "https://github.com/iMuFeng/round-flag-icons.git",
+  "author": "mufeng <mufeng.me@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "upgrade-icons": "git pull --recurse-submodules && cp -R circle-flags/flags ."
+  }
+}
