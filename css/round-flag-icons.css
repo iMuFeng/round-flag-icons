@@ -330,7 +330,6 @@
   background-image: url('../flags/fi.svg')
 }
 
-fiction
 .round-flag-fj {
   background-image: url('../flags/fj.svg')
 }
@@ -843,6 +842,10 @@ fiction
   background-image: url('../flags/qa.svg')
 }
 
+.round-flag-re {
+  background-image: url('../flags/fr.svg')
+}
+
 .round-flag-ro {
   background-image: url('../flags/ro.svg')
 }
@@ -881,6 +884,10 @@ fiction
 
 .round-flag-sg {
   background-image: url('../flags/sg.svg')
+}
+
+.round-flag-sh {
+  background-image: url('../flags/gb.svg')
 }
 
 .round-flag-si {
