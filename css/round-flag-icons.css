@@ -290,6 +290,10 @@
   background-image: url('../flags/er.svg')
 }
 
+.round-flag-es-ce {
+  background-image: url('../flags/es-ce.svg')
+}
+
 .round-flag-es-cn {
   background-image: url('../flags/es-cn.svg')
 }
@@ -754,8 +758,8 @@
   background-image: url('../flags/no.svg')
 }
 
-.round-flag-northen_cyprus {
-  background-image: url('../flags/northen_cyprus.svg')
+.round-flag-northern_cyprus {
+  background-image: url('../flags/northern_cyprus.svg')
 }
 
 .round-flag-np {

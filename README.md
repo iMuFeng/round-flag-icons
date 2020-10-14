@@ -25,6 +25,8 @@ For using flags add the classes `.round-flag-icon` and `.round-flag-xx` (where `
 <i class="round-flag-icon round-flag-us"></i>
 ```
 
+To view all the available flags, check the circle flags [gallery](https://hatscripts.github.io/circle-flags/all-flags.html).
+
 ## MIT license
 
 Copyright (c) 2020 mufeng <mufeng.me@gmail.com>.
